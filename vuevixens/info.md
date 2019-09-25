@@ -1,6 +1,7 @@
 # Vue Vixens
 
 ## Who are we?
+<img src="/vv_bg.png">
 Founded in 2018, Vue Vixens is led by CEO Jen Looper, CTO Michele Cynowicz, and Worldwide Community Organizer Diana Rodriguez.
 
 Vue Vixens is a [501(c)(3) tax-exempt charity](https://www.vuevixens.org/about) that aims to promote gender diversity within the Vue.js community. We are specifically focused on promoting 
